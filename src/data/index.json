@@ -1,0 +1,116 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/html.png",
+            "title": "HTML"
+            
+        },
+        {
+            "id": "2",
+            "src": "./img/css.png",
+            "title": "CSS"
+        },
+        {
+            "id": "3",
+            "src": "./img/javaScript.png",
+            "title": "Javascript"
+            
+        },
+        {
+            "id": "4",
+            "src": "./img/bootstrap.png",
+            "title": "Bootstrap"
+        },
+        {
+            "id": "5",
+            "src": "./img/tailwind.jpg",
+            "title": "Tailwind"
+        },
+        {
+            "id": "6",
+            "src": "./img/React.png",
+            "title": "React"
+        },
+        {
+            "id": "7",
+            "src": "./img/express-js.png",
+            "title": "Express.js"
+        },
+        {
+            "id": "8",
+            "src": "./img/nodejs.jpg",
+            "title": "Node.js"
+        },
+        {
+            "id": "9",
+            "src": "./img/mongodb.png",
+            "title": "MongoDB"
+        },
+        {
+            "id": "10",
+            "src": "./img/sql.png",
+            "title": "SQL"
+        },
+        {
+            "id": "11",
+            "src": "./img/python.png",
+            "title": "Python"
+        },
+        {
+            "id": "11",
+            "src": "./img/django.png",
+            "title": "Django"
+        }
+    ],
+    
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./img/resize-Colmar.png",
+            "title": "Colmar Proect",
+            "description": "Stack : Html , CSS Responsive : Desktop , Mobile",
+            "link": "https://colmar-project-lyart.vercel.app/"
+            
+        },
+        {
+            "id": "2",
+            "src": "./img/food-app.jpg",
+            "title": "Food app",
+            "description": "Stack : React , Tailwind Responsive : Desktop , Mobile"
+        },
+        {
+            "id": "3",
+            "src": "./img/React-Assessment.png",
+            "title": "React Assessment",
+            "description": "React Assessment Stack : ReactJS,CRUD,API Responsive : Desktop",
+            "link":"https://chutiman-10.vercel.app/"
+        }
+    ],
+    "testimonial": [
+        {
+          "id": "1",
+          "count": "5",
+          "src": "./img/avatar-image.png",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+          "author_name": "Dianne Russel",
+          "author_designation": "Starbucks"
+        },
+        {
+          "id": "2",
+          "count": "5",
+          "src": "./img/avatar-image-1.png",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+          "author_name": "Kristin Watson",
+          "author_designation": "Louis Vuitton"
+        },
+        {
+          "id": "3",
+          "count": "5",
+          "src": "./img/avatar-image-2.png",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+          "author_name": "Kathryn Murphy",
+          "author_designation": "McDonald's"
+        }
+    ]
+}
